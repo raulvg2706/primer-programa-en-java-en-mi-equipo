@@ -4,6 +4,7 @@ public class prueba1{
 
 		System.out.println("Valbuena García");
 		System.out.println("Nací en 2004 y tengo 19 años");
+		System.out.println("Mi comida favorita es el arroz con pollo");
 	} 
 
 }
